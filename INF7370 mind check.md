@@ -12,3 +12,5 @@ Make two categories out of the continuous variables, defined by a threshold; for
 The threshold (in this example, 100k) is not chosen arbitrarily: it is chosen, again, according to what maximizes entropy.
 
 Remember me!
+
+Never fear! I’m here!
