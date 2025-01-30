@@ -8,9 +8,9 @@ A decision tree is an algorithm that categorizes data by its attributes to predi
 But how does a decision tree learn which attributes are relevant?
 ## 1.2 Growing decision trees: the basics
 ---
-A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, everyone looks the same to it.
+A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, every data point looks the same to it.
 
-**The first step in branching out** involves choosing a variable based on which to start discriminating. In the best case scenario, this variable would be a perfect indicator of our outcome variable; every celibate always defaults on their loan, and every married person always pays it back. This would result in an extremely *pure* division, and while reality is often messier than this, the point is that the tree branches in the direction that creates the purest division — the purity of the resulting leaf nodes is the tree’s objective function. 
+**The first step in branching out** involves choosing a variable based on which to start discriminating. In the best case scenario, this variable would be a perfect indicator of our outcome variable; every celibate always defaults on their loan, and every married person always pays it back. This would result in an extremely clean, or *pure*, division, and while reality is often messier than this, the point is that the tree branches in the direction that creates the purest divisions — the purity of the resulting leaf nodes is the tree’s objective function. 
 #### Measuring impurity
 Two common metrics are used to quantify a tree’s purity: [[Key concepts#^entropy|entropy]] (algorithms: ID3 or C4.5) and the [[Key concepts#^gini|Gini coefficient]] (algorithm: CART).
 
