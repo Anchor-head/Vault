@@ -8,15 +8,14 @@ A decision tree is an algorithm that categorizes data by its attributes to predi
 But how does a decision tree learn which attributes are relevant?
 ### Growing decision trees: the basics
 ---
-A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, every data point looks the same to it.
+A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, everyone looks the same to it.bSTATUE!
 
-**The first step in branching out** involves choosing a variable based on which to discriminate. Ideally, the variable chosen will be such that different values of this variable correlate with different values of the target variable; the greater this correlation, the greater the branch's explanatory power. A tree branches in the direction that maximizes this explanatory power.
+**The first step in branching out** involves choosing a variable based on which to start discriminating. In the best case scenario, this variable would be a perfect indicator of our outcome variable; every celibate always defaults on their loan, and every married person always pays it back. This would result in an extremely *pure* division, and while reality is often messier than this, the point is that the tree branches in the direction that creates the purest division — the purity of the resulting leaf nodes is the tree’s objective function. STAGE THIS
 
-**The two most common metrics** used to quantify the discriminatory power a branch provides are information gain (algorithms: ID3 or C4.5) and the Gini coefficient (algorithm: CART).
-##### Information gain
-Information gain is synonymous with loss of [[Key concepts#^entropy|entropy]].
+**The two most common metrics** used to quantify a tree’s purity are entropy (algorithms: ID3 or C4.5) and the Gini coefficient (algorithm: CART).
+##### Entropy
+[[Key concepts#^entropy|Entropy]] A decision tree may branch out in the direction that minimizes entropy, or more specifically, the weighted sum of the entropies of the tree's leaf nodes. Here is [[Pasted image 20250130005758.png|a simple example]] of such a calculation.
 ![[Key concepts#^entropy]]
-A decision tree based on information gain branches out in the direction that minimizes entropy, or more specifically, the weighted sum of the entropies of the tree's leaf nodes. Here is [[Pasted image 20250130005758.png|a simple example]] of such a calculation.
 ##### [[Key concepts#^gini|Gini]] coefficient
 
 
