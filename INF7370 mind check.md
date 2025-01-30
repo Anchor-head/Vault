@@ -1,8 +1,11 @@
 # Decision trees
 
+A decision tree is an algorithm that categorizes data by its attributes in order to help predict a certain target variable. For example, if we are using a decision tree to predict whether a borrower will default of their loan or not, the decision tree will profile the borrower by relevant attributes (e.g. marital status, employment status, etc.) to make a best guess as to whether they will default on their loan or not. 
+
+During training, a decision tree learns which attributes (independent variables) help discriminate between outcomes. 
 ## Growing decision trees
 
-Decide split by one of two metrics:
+TWO POSSIBLE METRICS:
 
 1. Information gain (algorithms: ID3 or C4.5)
 2. Gini (algorithm: CART)
@@ -16,11 +19,11 @@ Information gain is a reduction in entropy. Entropy is a measure of the impurity
 
 By default, the entropy of a set is the weighted sum of the self-informations (in bits/Shannons) of all possible outcomes: 
 
-![AD_4nXfe6dCKVDS42OGWFr_-30paNcxFoBs_JUOAhshfS1tQkP1g3rQ8pY2mTKwosabwEfVr95LSqb1XCXikUBAekDmJfVcVv92IJE7jqAcLgjaNaGR-BzcuLyUrCLtrChgoTveQ4kZ7kw.png](blob:capacitor://localhost/4a4817c1-3f88-4795-8ccd-fe51321d4508)
-
-Example (with Defaulter Borrower as the outcome variable):![AD_4nXc21zf4uegHP14hNNBXTJM8DhDIwXvKBdmQm27803Rt-br147mLtcC9pg3gzYQ7E7HT2ej81AeV0Rq-S3NNy2eFihDyZXjj13ZGFCwdSxjRx9-FITjwDxSEfc25kc7xnN_RSpPhew.png](blob:capacitor://localhost/a98a094e-1114-42f9-909a-2b81f0eded88)
-
-A growing decision tree seeks to have the purest possible leaf nodes — its objective function is the weighted sum of the entropies of its leaf nodes:![AD_4nXchzihCr0NVTFrfcb49GW1mGGbZW6Xy0eFE-tJOHRE0uHE8iDtJ4sQvweT3dxPqvEAfCG60PSDIoQylCTlq90rOw5VS4Ko9DglgP6WPDwFnRsyyOnAwqly9fbwnvDqvvAk--7ghWA.png](blob:capacitor://localhost/0f01fff1-5fde-4356-8590-55a0c78d481f)![AD_4nXdh5TJeLBOmiU0PEn2Y99DtK4iLkvrvn9nK1YRGOg_U9ZEzoEWTZ3CyTDHXhvyTQaJlnuiWn7gJATzRytVQLmQjDfxDLBeo6myZkVLAe4BSqFpSEvPsokqVk2iFv_30D_xoNTof.png](blob:capacitor://localhost/82da5e00-4188-4e1b-9882-f7b17fb4e821)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoVHykaGhGrim0MAP8SFOwCaBPpaAxlD2V094azsOa3cAZZVMz9exps4psTgZSe2h7MhjfiamTWtYnTH5R2iavq21VVyvnQQGw0mVF_3FbebgLThkUXuBj0sUaDzR4wo5z7s07lg?key=tcv5BltTjCsL69XLxwWUykjz)
+Example (with Defaulter Borrower as the outcome variable):
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAefJ44Wp1X0svXHAV_l1u12J-bTjgeFBjru0kqpg6P3zDke-V9LiGq-nEevMKuw5_6FY0ki4eD6kPv80ukz5GOqlfPkA-3UxfQnkdhcc9NVscs8_zIatC5mTpzAAbOKQkLFp9DA?key=tcv5BltTjCsL69XLxwWUykjz)
+A growing decision tree seeks to have the purest possible leaf nodes — its objective function is the weighted sum of the entropies of its leaf nodes:
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXduRMvTD9iVD4P4LPvDCkzZquhTBZ9i1mbZEZ2q-CJVG5k3ah_q6YwA-hs7n9HH0wi6dvBuX-e1O7lfemiyeVqGoaNeh29ZJrsrmt4HruGD119w8_3s8jHKeKGXPwgkSaJhFv0Jig?key=tcv5BltTjCsL69XLxwWUykjz)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3JZPSRwoN1Bx-Kf5KJrbu35noVEwUV5_rqzIZ9dL75tk15VP_SPXvD_4wklieLxvbMmkd8zdolvHZ65n7k79h9LnLlBXxVoy_o92FHIaQfKcaH-zUfxtF5YPn_gHBpgZSMq7a?key=tcv5BltTjCsL69XLxwWUykjz)
 
 
 ### Gini coefficient
