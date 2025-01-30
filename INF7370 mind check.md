@@ -1,12 +1,12 @@
-# Decision trees
-### What is a decision tree?
+# 1. Decision trees
+## 1.1 What is a decision tree?
 ---
 A decision tree is an algorithm that categorizes data by its attributes to predict the target variable; in other words, a decision tree groups people/data points in boxes based on their characteristics to judge them; scientific stereotyping, if you will. For example, if we are using a decision tree to predict whether a borrower will default on their loan, the decision tree will first profile the borrower based on relevant attributes (e.g. marital status, employment status, home ownership, etc.) to make a best guess based on how often other people with this same profile have defaulted. Here is a simple example of what such a decision tree might look like:
 
 ![[Pasted image 20250129223301.png]]
 
 But how does a decision tree learn which attributes are relevant?
-### Growing decision trees: the basics
+## 1.2 Growing decision trees: the basics
 ---
 A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, everyone looks the same to it.
 
@@ -26,21 +26,15 @@ If decision trees work by categorization, how do they deal with non-categorical 
 Well, they make two categories out of the continuous variables, one category for values higher than a threshold, and the other for the rest.
 
 The threshold is not chosen arbitrarily: it is chosen to maximize purity.
-## Refining decision trees
+## 1.3 Refining decision trees
 ---
 Branching out almost always leads to *some* information gain; however, letting a tree grow indefinitely can easily lead to overfitting. Here are some common methods used to counter overfitting.
-
 ##### Parameter limits
 The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. This can be done by imposing a minimum leaf size, putting a ceiling on the number of leaves the tree can have, or setting a limit on the tree’s depth.
 ##### Trimming
-The most computationally extravagant way to mitigate overfitting is to grow the decision tree all the way out to then trim off the least valuable branches; trim until the whole tree is trimmed off, at each trim saving the tree’s configuration for testing.
+The most computationally extravagant way to mitigate overfitting is to grow the decision tree all the way out, test it on the development set, and trim off the least valuable branch; test it again on the development set, and trim the least valuable remaining branch, and so on until only the root is left. Keep the tree that performed best on the development set.
 >[!info] A branch’s value
 >A branch’s value is quantified by: $$\dfrac{\#\ mistakes\ saved}{\#\ nodes\ added}$$
->
->
 
-At the end, among all saved trees, select the one that outperforms the rest on the development set. 
-
-
-# Chapter 2
+# 2.
 
