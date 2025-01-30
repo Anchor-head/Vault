@@ -10,22 +10,16 @@ But how does a decision tree learn which attributes are relevant?
 ---
 A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, every data point looks the same to it.
 
-**The first step in branching out** involves choosing a variable based on which to discriminate. Ideally, the variable chosen will be such that different values of this variable correlate with different values of the target variable; the greater this correlation, the greater the branch's explanatory power. 
+**The first step in branching out** involves choosing a variable based on which to discriminate. Ideally, the variable chosen will be such that different values of this variable correlate with different values of the target variable; the greater this correlation, the greater the branch's explanatory power. A tree branches in the direction that maximizes this explanatory power.
 
-**There are two possible metrics** to quantify the discriminatory power a branch provides: information gain (algorithms: ID3 or C4.5) and Gini (algorithm: CART).
-###### Information gain
-Information gain is synonymous with loss of entropy.
+**The two most common metrics** used to quantify the discriminatory power a branch provides are information gain (algorithms: ID3 or C4.5) and the Gini coefficient (algorithm: CART).
+##### Information gain
+Information gain is synonymous with loss of [[Key concepts#^entropy|entropy]].
 ![[Key concepts#^entropy]]
 A decision tree based on information gain branches out in the direction that minimizes entropy, or more specifically, the weighted sum of the entropies of the tree's leaf nodes. Here is [[Pasted image 20250130005758.png|a simple example]] of such a calculation.
+##### [[Key concepts#^gini|Gini]] coefficient
 
-###### Gini coefficient
-The Gini coefficient is a less computationally expensive measure of purity, due to its lack of logarithms.
-$$
-Gini = 1- \sum_{i=1}^C {p_i}^2
-$$
-**Purest set:** Gini = 0
 
-**Least pure set:** Gini approaches 1
 
 
 
