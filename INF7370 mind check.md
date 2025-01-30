@@ -10,7 +10,18 @@ TWO POSSIBLE METRICS for growing trees:
 1. Information gain (algorithms: ID3 or C4.5)
 2. Gini (algorithm: CART)
 ### Information gain
-Information gain is a reduction in entropy. Entropy is a measure of the impurity of a certain set.
+The first way in which a tree can grow is in the direction that maximizes information gain; in other words, that minimizes entropy.
+
+
+> [!info] Title
+> Contents Entropy is a measure of the impurity of a set; the more impure the set, the higher the entropy, and a perfectly pure set has an entropy of zero.
+> Wowzers
+
+
+$$Entropy = -\sum_{i\in C}p_i*log_2(p_i)$$
+Where $C$ represents the set of all classes and $p_i$ represents the proportion of class $i$ in the data.
+
+Intuitively, 
 
 **Purest set:** entropy = 0, all elements belong to one class
 
@@ -32,8 +43,11 @@ The tree's entropy is the weighted sum of the entropies of its leaf nodes (Figur
 ### Gini coefficient
 The Gini coefficient is a less computationally expensive measure of purity, due to its lack of logarithms.
 $$
-1- \sum_{i=1}^C {p_i}^2
+Gini = 1- \sum_{i=1}^C {p_i}^2
 $$
+**Purest set:** Gini = 0
+
+**Least pure set:** Gini approaches 1
 
 ### What about continuous variables? 
 
