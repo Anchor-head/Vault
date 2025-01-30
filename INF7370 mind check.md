@@ -31,9 +31,9 @@ The threshold is not chosen arbitrarily: it is chosen to maximize purity.
 Branching out almost always leads to *some* information gain; however, letting a tree grow indefinitely can easily lead to overfitting. Here are some common methods used to counter overfitting.
 
 ##### Parameter limits
-The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. This can be done by imposing a minimum leaf size, by putting a ceiling on the number of leaves the tree can have, or by setting a limit on the tree’s depth.
+The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. This can be done by imposing a minimum leaf size, putting a ceiling on the number of leaves the tree can have, or setting a limit on the tree’s depth.
 ##### Trimming
-The most computationally expensive  can grow decision trees all the way and trim off the node that minimize the # of mistakes saved/removed by # of nodes added. Iterate until the whole tree is trimmed off, at each step saving the tree for testing; at the end, test all trees on training and dev set and select the tree which performs best on the dev set.
+The most computationally extravagant way to prevent overfitting is to grow the decision tree all the way out to then trim off the least valuable branches. A branch’s value can be quantified by $(mistakes-saved) / (nodes-added)$. Iterate until the whole tree is trimmed off, at each step saving the tree for testing; at the end, test all trees on training and dev set and select the tree which performs best on the dev set.
 
 
 # Chapter 2
