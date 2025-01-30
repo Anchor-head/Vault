@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "15fb2a3e7b58aa4f",
+        "id": "d89d2d5cef0673b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c21b35c26b8fbd",
+            "id": "205bc1f0d5c12783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "INF7370 mind check.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -162,9 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2c21b35c26b8fbd",
+  "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "INF7370 mind check.md"
+    "Key concepts.md",
+    "INF7370 mind check.md",
+    "Pasted image 20250130005758.png",
+    "^Entropy.md",
+    "Untitled.canvas",
+    "Pasted image 20250129223301.png",
+    "Pasted image 20250129221455.png",
+    "Pasted image 20250129221619.png",
+    "Pasted image 20250129221604.png",
+    "Pasted image 20250129221529.png"
   ]
 }
