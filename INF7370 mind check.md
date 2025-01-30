@@ -31,9 +31,8 @@ The tree's entropy is the weighted sum of the entropies of its leaf nodes (Figur
 
 ### Gini coefficient
 The Gini coefficient is a less computationally expensive measure of purity, due to its lack of logarithms.
-$1-sigma(5)$
 $$
-1-(p_i^2)
+1-\sum_i\(p_i^2)
 $$
 
 ### What about continuous variables? 
