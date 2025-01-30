@@ -10,15 +10,12 @@ TWO POSSIBLE METRICS for growing trees:
 1. Information gain (algorithms: ID3 or C4.5)
 2. Gini (algorithm: CART)
 ### Information gain
-The first way in which a tree can grow is in the direction that maximizes information gain; in other words, that minimizes entropy.
+The first way in which a tree can grow is in the direction that maximizes information gain; in other words, that minimizes [[#^Entropy|entropy]].
 
+> [!note] Entropy
+> Entropy is a measure of the impurity of a set; the more impure the set, the higher the entropy, and a perfectly pure set has an entropy of zero.
+> $$Entropy = -\sum_{i\in C}p_i*log_2(p_i)$$ ^Entropy
 
-> [!info] Title
-> Contents Entropy is a measure of the impurity of a set; the more impure the set, the higher the entropy, and a perfectly pure set has an entropy of zero.
-> Wowzers
-
-
-$$Entropy = -\sum_{i\in C}p_i*log_2(p_i)$$
 Where $C$ represents the set of all classes and $p_i$ represents the proportion of class $i$ in the data.
 
 Intuitively, 
