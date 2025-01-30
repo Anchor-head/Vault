@@ -33,7 +33,13 @@ Branching out almost always leads to *some* information gain; however, letting a
 ##### Parameter limits
 The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. This can be done by imposing a minimum leaf size, putting a ceiling on the number of leaves the tree can have, or setting a limit on the tree’s depth.
 ##### Trimming
-The most computationally extravagant way to prevent overfitting is to grow the decision tree all the way out to then trim off the least valuable branches. A branch’s value can be quantified by $(mistakes-saved) / (nodes-added)$. Iterate until the whole tree is trimmed off, at each step saving the tree for testing; at the end, test all trees on training and dev set and select the tree which performs best on the dev set.
+The most computationally extravagant way to mitigate overfitting is to grow the decision tree all the way out to then trim off the least valuable branches; trim until the whole tree is trimmed off, at each trim saving the tree’s configuration for testing.
+>[!info] A branch’s value
+>A branch’s value is quantified by: $$\dfrac{\#\ mistakes\ saved}{\#\ nodes\ added}$$
+>
+>
+
+At the end, among all saved trees, select the one that outperforms the rest on the development set. 
 
 
 # Chapter 2
