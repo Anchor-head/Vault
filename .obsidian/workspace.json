@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INF7370 mind check.md",
+                "file": "Decision trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INF7370 mind check"
+              "title": "Decision trees"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INF7370 mind check.md",
+                "file": "Decision trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INF7370 mind check"
+              "title": "Backlinks for Decision trees"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INF7370 mind check.md",
+                "file": "Decision trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from INF7370 mind check"
+              "title": "Outgoing links from Decision trees"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INF7370 mind check.md"
+                "file": "Decision trees.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of INF7370 mind check"
+              "title": "Outline of Decision trees"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
     "Pasted image 20250130005758.png",
-    "INF7370 mind check.md",
+    "Decision trees.md",
     "Key concepts.md",
     "Obsidian.md",
     "Untitled.canvas",
