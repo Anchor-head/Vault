@@ -10,7 +10,7 @@ But how does a decision tree learn which attributes are relevant?
 ---
 A decision tree starts off as a root; at this stage, the tree is perfectly indiscriminate, that is, every data point looks the same to it.
 
-**The first step in branching out** a tree involves choosing a variable based on which to discriminate. In the best case scenario, this variable would be a perfect indicator of our outcome variable; every celibate always defaults on their loan, and every married person always pays it back. This would result in an extremely clean, or *pure*, division, and this purity is what growing trees are after — indeed, the tree will select purely based on the purity of the resulting leaf nodes.
+**The first step in branching out** a tree involves choosing a variable based on which to discriminate. In the best case scenario, this variable would be a perfect indicator of our outcome variable; every celibate always defaults on their loan, and every married person always pays it back. This would result in an extremely clean, or *pure*, division, and this purity is precisely what growing trees are after — indeed, the tree will decide which variable to discriminate by purely based on the purity of the resulting split, or more specifically, the weighted average of the purities of the resulting leaf nodes.
 #### Measuring impurity
 Two common metrics are used to quantify a tree’s purity: [[Key concepts#^entropy|entropy]] (algorithms: ID3 or C4.5) and the [[Key concepts#^gini|Gini coefficient]] (algorithm: CART).
 
