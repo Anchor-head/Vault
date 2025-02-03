@@ -21,12 +21,14 @@ Two common measures of impurity are [[Key concepts#^entropy|entropy]] (algorithm
 
 ![[Key concepts#^entropy]]
 ![[Key concepts#^Gini]]
-Whichever metric is used, a tree will always branch out in the direction that ==minimizes the weighted sum of the impurity of the tree's leaves==. Here is [[Pasted image 20250130005758.png|a simple example]] of a calculation of the weighted entropies of the three leaves of a tree, which should be summed up to yield the entropy of the whole tree.
+Whichever metric is used, a tree will always branch out in the direction that minimizes the weighted sum of [[Pasted image 20250130005758.png|the impurity of the tree's leaves]].
 #### What about continuous variables? 
 
 If decision trees work by categorization, how do they deal with non-categorical or continuous variables?
 
-Well, they make two categories out of the continuous variable: one category for values above a certain threshold, and one for all values below. But this threshold is not arbitrarily chosen: as always, it is chosen to maximize purity.
+Indeed, they can't; you have to **discretize** the continuous variable, by splitting it into chunks that each contain a certain range of that continuous variable.
+
+Start by making two categories out of the continuous variable: one category for values above a certain threshold, and one for values below. [[Pasted image 20250203025627.png|But this threshold is chosen to maximize purity]].
 
 More than two subcategories can be created by further subdividing the data on either side of the continuous variable with another threshold, and so on. This is reminiscent of how a binary tree works.
 # ✂️ Refining decision trees
