@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myamya/Date ideas.md",
+                "file": "INF7370/Decision trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Date ideas"
+              "title": "Decision trees"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myamya/Date ideas.md",
+                "file": "INF7370/Decision trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Date ideas"
+              "title": "Backlinks for Decision trees"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myamya/Date ideas.md",
+                "file": "INF7370/Decision trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Date ideas"
+              "title": "Outgoing links from Decision trees"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myamya/Date ideas.md"
+                "file": "INF7370/Decision trees.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Date ideas"
+              "title": "Outline of Decision trees"
             }
           }
         ]
@@ -164,12 +164,14 @@
   },
   "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
-    "Myamya/Gift ideas.md",
-    "Myamya/Date ideas.md",
-    "Myamya/Songs and poems.md",
-    "Untitled",
+    "Pasted image 20250203171830.png",
     "INF7370/Key concepts.md",
     "INF7370/Decision trees.md",
+    "Pasted image 20250203165419.png",
+    "Myamya/Date ideas.md",
+    "Myamya/Gift ideas.md",
+    "Myamya/Songs and poems.md",
+    "Untitled",
     "Myamya",
     "INF7370/Untitled.md",
     "Untitled2.md",

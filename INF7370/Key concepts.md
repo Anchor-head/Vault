@@ -14,3 +14,6 @@
 >
 >>[!tip] Advantage
 >> Gini is a less computationally expensive measure of purity than entropy due to its lack of logarithms. ^Gini
+
+$A$ = Attribute, $t_A$ = threshold
+![[Pasted image 20250203165419.png]]

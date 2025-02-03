@@ -21,16 +21,16 @@ Two common measures of impurity are [[Key concepts#^entropy|entropy]] (algorithm
 
 ![[Key concepts#^entropy]]
 ![[Key concepts#^Gini]]
-Whichever metric is used, a tree will always branch out in the direction that minimizes the weighted sum of [[Pasted image 20250130005758.png|the impurity of the tree's leaves]].
+Whichever metric is used, a tree will always branch out in the direction that minimizes the tree's impurity, which is the weighted sum of the impurity of the tree's leaves ([[Pasted image 20250203171830.png|here is the formula using Gini from CART]], and an [[Pasted image 20250130005758.png|example calculation using entropy]]).
 #### What about continuous variables? 
 
 If decision trees work by categorization, how do they deal with non-categorical or continuous variables?
 
 Indeed, they can't; you have to **discretize** the continuous variable, by splitting it into chunks that each contain a certain range of that continuous variable.
 
-Start by making two categories out of the continuous variable: one category for values above a certain threshold, and one for values below. [[Pasted image 20250203025627.png|But this threshold is chosen to maximize purity]].
+Start by making two categories out of the continuous variable: one category for values above a certain threshold, and one for values below. But this threshold is chosen to minimize impurity according to the usual formula ([[Pasted image 20250203025627.png|example]] using Scikit-Learn's [[Pasted image 20250203165419.png|CART algorithm loss function, or weighted Gini]]).
 
-More than two subcategories can be created by further subdividing the data on either side of the continuous variable with another threshold, and so on. This is reminiscent of how a binary tree works.
+More than two subcategories can be created by recursively subdividing the data on either side of the threshold with another threshold, similar in functioning to a binary tree.
 # ✂️ Refining decision trees
 ---
 Branching out almost always leads to *some* information gain; however, letting a tree grow indefinitely can easily lead to overfitting. Here are some common methods used to counter overfitting.
@@ -42,4 +42,6 @@ The most computationally extravagant way to mitigate overfitting is to grow the 
 >A branch’s value is quantified by: $$\dfrac{\#\ mistakes\ saved}{\#\ leaves\ added}$$
 
 
-
+# 📈Regression trees
+---
+Decision trees can also be used to predict continuous variables. Every leaf node's prediction is the mean value of all training data in the leaf node, and the loss function is MSE instead of impurity.
