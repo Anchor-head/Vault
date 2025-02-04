@@ -35,13 +35,36 @@ More than two subcategories can be created by recursively subdividing the data o
 ---
 Branching out almost always leads to *some* information gain; however, letting a tree grow indefinitely can easily lead to overfitting. Here are some common methods used to counter overfitting.
 #### Parameter limits
-The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. This can be done by ==imposing a minimum leaf size, putting a ceiling on the number of leaves the tree can produce, or setting a limit on the tree’s depth==.
+The simplest way to prevent overfitting is to set hard limits on how far the tree can grow. Here is how this can be done, with corresponding parameters from SKLearn's DecisionTreeClassifier class:
+- **min_samples_split**: imposing a minimum splittable node size
+- **min_samples_leaf** or **min_weight_fraction_leaf**: imposing a minimum leaf node size
+- **max_lead_nodes**: putting a ceiling on the number of leaves the tree can produce
+- **max_depth**: setting a limit on the tree’s depth
+- **max_features**: max number of features checked at each split
 #### Trimming
-The most computationally extravagant way to mitigate overfitting is to grow the decision tree all the way out, test it on the development set, trim off the least valuable branch (as defined below), and test it again on the development set; again trim off the least valuable remaining branch, and test again, and so on until only the root is left. Keep the tree that performed best on the development set.
->[!info] A branch’s value
->A branch’s value is quantified by: $$\dfrac{\#\ mistakes\ saved}{\#\ leaves\ added}$$
+The most computationally extravagant way to mitigate overfitting is to grow the decision tree all the way out, test it on the development set, trim off the least valuable node (as defined below), and test it again on the development set; again trim off the least valuable of remaining nodes, and test again, and so on until only the root is left. Keep the tree that performed best on the development set. This algorithm is summarized on [[Pasted image 20250203184449.png|this slide]].
+>[!info] A node’s value
+>A node’s value is quantified by:
+>$$\dfrac{\#\ errors\ corrected\ by\ node}{\#\ leaves\ under\ node}$$
+>Which is a simplifcation of the real formula:
+> ![[Pasted image 20250203184003.png|500]]
+>
+
 
 
 # 📈Regression trees
 ---
 Decision trees can also be used to predict continuous variables. Every leaf node's prediction is the mean value of all training data in the leaf node, and the loss function is MSE instead of impurity.
+
+CART algorithm will try out different thresholds and choose the one that minimizes MSE.
+
+# 📋Pros and Cons
+---
+**Pros:**
+- Readability
+- Easy parameters
+- Widely available
+
+**Cons:**
+- Non-incremental (must retrain whole tree to integrate new data)
+- Splits are perpendicular to axes (sensitive to [[Pasted image 20250203185511.png|data rotation]])
