@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "Myamya/Songs and poems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Ensemble methods"
+              "title": "Songs and poems"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "Myamya/Songs and poems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Ensemble methods"
+              "title": "Backlinks for Songs and poems"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "Myamya/Songs and poems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Ensemble methods"
+              "title": "Outgoing links from Songs and poems"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md"
+                "file": "Myamya/Songs and poems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Ensemble methods"
+              "title": "Outline of Songs and poems"
             }
           }
         ]
@@ -162,14 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31548f298b5e79af",
+  "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
+    "INF7370/1. Decision trees.md",
+    "INF7370/2. Ensemble methods.md",
     "INF7370/Pasted image 20250206175542.png",
     "INF7370/Pasted image 20250206175323.png",
     "INF7370/Pasted image 20250206175020.png",
-    "INF7370/1. Decision trees.md",
     "INF7370/Key concepts.md",
-    "INF7370/2. Ensemble methods.md",
     "INF7370/Pasted image 20250203185511.png",
     "Pasted image 20250203185514.png",
     "INF7370/Pasted image 20250203184449.png",
@@ -190,7 +190,6 @@
     "Final boss",
     "INF7370",
     "INF7370/Pasted image 20250203025627.png",
-    "INF7370/Pasted image 20250130005758.png",
     "Obsidian.md",
     "Untitled.canvas",
     "Glossary.md",
