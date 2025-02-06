@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INF7370/Decision trees.md",
-                "mode": "preview",
+                "file": "INF7370/2. Ensemble methods.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision trees"
+              "title": "2. Ensemble methods"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INF7370/Decision trees.md",
+                "file": "INF7370/2. Ensemble methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decision trees"
+              "title": "Backlinks for 2. Ensemble methods"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INF7370/Decision trees.md",
+                "file": "INF7370/2. Ensemble methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Decision trees"
+              "title": "Outgoing links from 2. Ensemble methods"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INF7370/Decision trees.md"
+                "file": "INF7370/2. Ensemble methods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Decision trees"
+              "title": "Outline of 2. Ensemble methods"
             }
           }
         ]
@@ -164,8 +164,12 @@
   },
   "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
+    "Pasted image 20250206175542.png",
+    "Pasted image 20250206175323.png",
+    "Pasted image 20250206175020.png",
+    "INF7370/1. Decision trees.md",
     "INF7370/Key concepts.md",
-    "INF7370/Decision trees.md",
+    "INF7370/2. Ensemble methods.md",
     "INF7370/Pasted image 20250203185511.png",
     "Pasted image 20250203185514.png",
     "INF7370/Pasted image 20250203184449.png",
@@ -177,7 +181,6 @@
     "Myamya/Songs and poems.md",
     "Untitled",
     "Myamya",
-    "INF7370/Untitled.md",
     "Untitled2.md",
     "Untitled.md",
     "Newest/Untitled2.md",
@@ -190,10 +193,8 @@
     "INF7370/Pasted image 20250130005758.png",
     "Obsidian.md",
     "Untitled.canvas",
-    "INF7370/Pasted image 20250129223301.png",
     "Glossary.md",
     "2025-01-30.md",
-    "^Entropy.md",
-    "Pasted image 20250129221455.png"
+    "^Entropy.md"
   ]
 }
