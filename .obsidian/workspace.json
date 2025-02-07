@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myamya/Songs and poems.md",
+                "file": "INF7370/2. Ensemble methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Songs and poems"
+              "title": "2. Ensemble methods"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myamya/Songs and poems.md",
+                "file": "INF7370/2. Ensemble methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Songs and poems"
+              "title": "Backlinks for 2. Ensemble methods"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myamya/Songs and poems.md",
+                "file": "INF7370/2. Ensemble methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Songs and poems"
+              "title": "Outgoing links from 2. Ensemble methods"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myamya/Songs and poems.md"
+                "file": "INF7370/2. Ensemble methods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Songs and poems"
+              "title": "Outline of 2. Ensemble methods"
             }
           }
         ]
@@ -164,21 +164,23 @@
   },
   "active": "205bc1f0d5c12783",
   "lastOpenFiles": [
+    "Pasted image 20250207112616.png",
+    "Pasted image 20250207112404.png",
+    "Pasted image 20250207112045.png",
+    "Pasted image 20250207111922.png",
+    "INF7370/Pasted image 20250207111747.png",
     "INF7370/1. Decision trees.md",
+    "Myamya/Songs and poems.md",
     "INF7370/2. Ensemble methods.md",
     "INF7370/Pasted image 20250206175542.png",
+    "Myamya/Gift ideas.md",
     "INF7370/Pasted image 20250206175323.png",
     "INF7370/Pasted image 20250206175020.png",
     "INF7370/Key concepts.md",
     "INF7370/Pasted image 20250203185511.png",
     "Pasted image 20250203185514.png",
     "INF7370/Pasted image 20250203184449.png",
-    "INF7370/Pasted image 20250203184003.png",
-    "INF7370/Pasted image 20250203171830.png",
-    "INF7370/Pasted image 20250203165419.png",
     "Myamya/Date ideas.md",
-    "Myamya/Gift ideas.md",
-    "Myamya/Songs and poems.md",
     "Untitled",
     "Myamya",
     "Untitled2.md",
@@ -189,7 +191,6 @@
     "Final boss/Boss",
     "Final boss",
     "INF7370",
-    "INF7370/Pasted image 20250203025627.png",
     "Obsidian.md",
     "Untitled.canvas",
     "Glossary.md",
