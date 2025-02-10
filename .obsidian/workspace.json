@@ -11,17 +11,30 @@
             "id": "205bc1f0d5c12783",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "INF7370/Images/IMG_3694.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_3694"
+            }
+          },
+          {
+            "id": "bd81e39ba46f328b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "INF7370/Notes/3. Bayesian classifier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Ensemble methods"
+              "title": "3. Bayesian classifier"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:INF7370  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "INF7370/IMG_3694.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Ensemble methods"
+              "title": "Backlinks for IMG_3694"
             }
           },
           {
@@ -112,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md",
+                "file": "INF7370/IMG_3694.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Ensemble methods"
+              "title": "Outgoing links from IMG_3694"
             }
           },
           {
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INF7370/2. Ensemble methods.md"
+                "file": "INF7370/IMG_3694.jpeg"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Ensemble methods"
+              "title": "Outline of IMG_3694"
             }
           }
         ]
@@ -162,36 +176,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "205bc1f0d5c12783",
+  "active": "bd81e39ba46f328b",
   "lastOpenFiles": [
-    "INF7370/Pasted image 20250210093602.png",
-    "INF7370/IMG_3694.jpeg",
-    "INF7370/IMG_3693.jpeg",
-    "INF7370/IMG_3692.jpeg",
+    "INF7370/Notes/2. Ensemble methods.md",
+    "INF7370/Notes/1. Decision trees.md",
+    "INF7370/Notes/3. Bayesian classifier.md",
+    "INF7370/Key concepts.md",
+    "INF7370/Images/IMG_3691.jpeg",
+    "INF7370/Images/Pasted image 20250129223301.png",
+    "INF7370/Images/IMG_3692.jpeg",
+    "INF7370/Images",
+    "INF7370/Slides/1. Arbres de décision.pdf",
+    "INF7370/Slides/Untitled",
+    "INF7370/Slides/2. Apprentissage par ensemble.pdf",
+    "INF7370/Slides/3. Classification bayésienne.pdf",
+    "INF7370/2. Ensemble methods.md",
+    "INF7370/Slides",
+    "INF7370/Notes",
+    "INF7370/Images/Pasted image 20250207112404.png",
+    "INF7370/Arbres de décision.pdf",
+    "INF7370/Images/Pasted image 20250210093602.png",
+    "INF7370/Images/IMG_3694.jpeg",
+    "INF7370/Images/IMG_3693.jpeg",
     "INF7370/Apprentissage par ensemble.pdf",
     "Pasted image 20250210093359.png",
     "INF7370/IMG_3691.jpeg",
     "IMG_3694.jpeg",
-    "IMG_3693.jpeg",
-    "IMG_3692.jpeg",
-    "INF7370/Pasted image 20250207112404.png",
-    "INF7370/Pasted image 20250207135110.png",
-    "INF7370/2. Ensemble methods.md",
     "INF7370/1. Decision trees.md",
     "Myamya/Songs and poems.md",
     "Myamya/Gift ideas.md",
-    "INF7370/Key concepts.md",
     "Myamya/Date ideas.md",
     "Untitled",
-    "Myamya",
     "Untitled2.md",
     "Untitled.md",
     "Newest/Untitled2.md",
-    "Newest",
     "Final boss/Boss/Finality!!!.md",
-    "Final boss/Boss",
-    "Final boss",
-    "INF7370",
     "Obsidian.md",
     "Untitled.canvas",
     "Glossary.md",
