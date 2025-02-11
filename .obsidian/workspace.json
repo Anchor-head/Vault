@@ -15,7 +15,8 @@
               "state": {
                 "file": "INF7370/Notes/3. Bayesian classifier.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "3. Bayesian classifier"
@@ -40,15 +41,14 @@
               "type": "markdown",
               "state": {
                 "file": "INF7370/Notes/2. Ensemble methods.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2. Ensemble methods"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,17 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6421e200610ec0",
+  "active": "bd81e39ba46f328b",
   "lastOpenFiles": [
-    "INF7370/Slides/3. Classification bayésienne.pdf",
-    "INF7370/Slides/2. Apprentissage par ensemble.pdf",
+    "INF7370/Images/Pasted image 20250129223301.png",
     "INF7370/Notes/3. Bayesian classifier.md",
-    "INF7370/Images/IMG_3694.jpeg",
     "INF7370/Notes/2. Ensemble methods.md",
     "INF7370/Notes/1. Decision trees.md",
+    "INF7370/Slides/3. Classification bayésienne.pdf",
+    "INF7370/Slides/2. Apprentissage par ensemble.pdf",
+    "INF7370/Images/IMG_3694.jpeg",
     "INF7370/Key concepts.md",
     "INF7370/Images/IMG_3691.jpeg",
-    "INF7370/Images/Pasted image 20250129223301.png",
     "INF7370/Images/IMG_3692.jpeg",
     "INF7370/Images",
     "INF7370/Slides/1. Arbres de décision.pdf",
