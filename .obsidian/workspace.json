@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "INF7370/Notes/2. Ensemble methods.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,9 +192,11 @@
   },
   "active": "bd81e39ba46f328b",
   "lastOpenFiles": [
-    "INF7370/Images/Pasted image 20250129223301.png",
-    "INF7370/Notes/3. Bayesian classifier.md",
     "INF7370/Notes/2. Ensemble methods.md",
+    "INF7370/Notes/3. Bayesian classifier.md",
+    "INF7370/Images/Pasted image 20250212154905.png",
+    "Pasted image 20250212154836.png",
+    "INF7370/Images/Pasted image 20250129223301.png",
     "INF7370/Notes/1. Decision trees.md",
     "INF7370/Slides/3. Classification bayésienne.pdf",
     "INF7370/Slides/2. Apprentissage par ensemble.pdf",
@@ -214,8 +216,6 @@
     "INF7370/Images/IMG_3693.jpeg",
     "INF7370/Apprentissage par ensemble.pdf",
     "Pasted image 20250210093359.png",
-    "INF7370/IMG_3691.jpeg",
-    "IMG_3694.jpeg",
     "INF7370/1. Decision trees.md",
     "Myamya/Songs and poems.md",
     "Myamya/Gift ideas.md",
