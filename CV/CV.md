@@ -1,14 +1,11 @@
 # Philip Voinea
-
-## Coordonnées
-
 📍 Montréal, QC, Canada  
 ✉️ voinea.philip@courrier.uqam.ca  
 📞 (514) 762-1862  
 
 ---
 
-## 🎓 Formation
+# Formation
 
 ### Collège de l’Immobilier du Québec *(2023 - présent)*
 **Licence de courtage immobilier (en cours)**  
@@ -22,7 +19,7 @@
 - Mineure : Psychologie de l’éducation  
 
 ### Certificat MIT : Data Science et Machine Learning *(Automne 2022 - Hiver 2023)*
-[Certificat](https://olympus1.mygreatlearning.com/certificate/QKIKHNWV)  
+Certificat: https://olympus1.mygreatlearning.com/certificate/QKIKHNWV  
 - Apprentissage des arbres, réseaux, SVM non linéaire, k-means, PCA (SVD), t-SNE  
 - Systèmes de recommandation, apprentissage profond, réseaux de neurones multicouches  
 - Régularisation des NN, filtres de Kalman et HMM, évaluation critique des métriques de performance  
@@ -33,7 +30,7 @@
 
 ---
 
-## 🏆 Expérience professionnelle
+# Expérience professionnelle
 
 ### Data Annotation *(Mai 2024 - présent)*
 **dataannotation.tech**  
@@ -61,10 +58,10 @@
 
 ---
 
-## 🎭 Expérience associative & entrepreneuriale
+# Expérience associative & entrepreneuriale
 
-### Président & Trésorier - Kappa Alpha Society *(2023 - présent)*
-[Littérature et Société](https://www.ka.org/)  
+### Président & Trésorier - The Society of Kappa Alpha *(2023 - présent)*
+Société Littéraire: https://www.ka.org/  
 - Organisation de réunions et d’événements  
 - Gestion de la trésorerie et des finances  
 
@@ -75,22 +72,21 @@
 
 ---
 
-## 🛠 Compétences
+# Compétences
 
-- **Programmation** : Python (NumPy, Pandas, Surprise, Keras, Scipy, SK-learn, Seaborn, Matplotlib)  
+- **Programmation** : Python (NumPy, Pandas, Surprise, Keras, Scipy, SK-learn, Seaborn, Matplotlib) 
 - **Outils** : Jupyter, Google Colab, VS Code, Git  
 - **Langues** :  
-  - 🇫🇷 Français (natif)  
-  - 🇬🇧 Anglais (natif)  
-  - 🇷🇴 Roumain (natif)  
-  - 🇪🇸 Espagnol (courant)  
-  - 🇨🇳 Mandarin (intermédiaire)  
-  - 🇩🇪 Allemand (intermédiaire)  
-  - 🇮🇹 Italien (débutant)  
+  - Français (natif)  
+  - Anglais (natif)  
+  - Roumain (natif)  
+  - Espagnol (courant)  
+  - Mandarin (intermédiaire)  
+  - Allemand (intermédiaire)    
 
 ---
 
-## 🎯 Intérêts et réalisations
+# Intérêts et réalisations
 
 - 🏆 Distinction - Concours Fermat (Université de Waterloo, 2018)  
 - 🏆 Grande distinction - Concours Gauss (Université de Waterloo, 2014)  
