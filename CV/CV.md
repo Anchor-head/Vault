@@ -81,7 +81,7 @@
 - **Outils** : Jupyter, Google Colab, VS Code, Git  
 - **Langues** :  
   - 🇫🇷 Français (natif)  
-  -  Anglais (natif)  
+  - 🇬🇧 Anglais (natif)  
   - 🇷🇴 Roumain (natif)  
   - 🇪🇸 Espagnol (courant)  
   - 🇨🇳 Mandarin (intermédiaire)  
