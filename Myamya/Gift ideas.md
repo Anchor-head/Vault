@@ -2,7 +2,7 @@
 
 **Songs/Poems/Letters**: baby loves my poems and songs
 
-**Jewelry**: baby loves jewelry, especially earrings
+**Jewelry**: baby loves jewelry, especially earrings ad GLASS BANGLES
 
 **Presentation:** baby loves when you teach her stuff
 
