@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Table talk.md",
-                "mode": "preview",
+                "file": "INF7370/TP1/Gradient Boosting.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table talk"
+              "title": "Gradient Boosting"
             }
           }
         ]
@@ -165,8 +165,13 @@
   },
   "active": "bd81e39ba46f328b",
   "lastOpenFiles": [
-    "CV/CV.md",
+    "Pasted image 20250302171729.png",
+    "Pasted image 20250302165348.png",
+    "INF7370/Notes/3. Ensemble methods.md",
+    "INF7370/TP1/Gradient Boosting.md",
+    "INF7370/TP1",
     "Misc/Table talk.md",
+    "CV/CV.md",
     "CV",
     "INF7370/Key concepts.md",
     "Misc",
@@ -190,11 +195,8 @@
     "INF7370/Images/Pasted image 20250203165419.png",
     "INF7370/Images/Pasted image 20250207112045.png",
     "INF7370/Images/Pasted image 20250207112404.png",
-    "INF7370/Images/Pasted image 20250207135110.png",
     "INF7370/Slides/2. Arbres de décision.pdf",
     "INF7370/Slides/4. Classification bayésienne.pdf",
-    "INF7370/Slides/3. Apprentissage par ensemble.pdf",
-    "INF7370/Notes/3. Ensemble methods.md",
     "INF7370/2. Ensemble methods.md",
     "INF7370/1. Decision trees.md",
     "Myamya/Gift ideas.md",
