@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd81e39ba46f328b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INF7370/Slides/2. Decision trees slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2. Decision trees slides"
-            }
-          },
-          {
-            "id": "fb09ee187ca2cfd1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INF7370/Slides/2. Decision trees slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2. Decision trees slides"
-            }
-          },
-          {
             "id": "2c8386d3f2a59ccd",
             "type": "leaf",
             "state": {
@@ -42,9 +18,23 @@
               "icon": "lucide-file-text",
               "title": "6. Evaluation slides"
             }
+          },
+          {
+            "id": "f9b0b03b1d03d2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INF7370/Notes/6. Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Evaluation"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,13 +176,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8386d3f2a59ccd",
+  "active": "f9b0b03b1d03d2fc",
   "lastOpenFiles": [
+    "Pasted image 20250305195841.png",
+    "INF7370/Slides/6. Evaluation slides.pdf",
+    "INF7370/Notes/6. Evaluation.md",
+    "INF7370/Notes/4. Bayesian classifier.md",
+    "INF7370/Notes/5. kNN.md",
+    "INF7370/Slides/2. Decision trees slides.pdf",
     "Herbalife/Notes Frank.md",
     "INF7370/TP1/Gradient Boosting.md",
     "Herbalife",
     "INF7370/Notes/2. Decision trees.md",
-    "INF7370/Slides/2. Decision trees slides.pdf",
     "Pasted image 20250302171729.png",
     "Pasted image 20250302165348.png",
     "Misc/Flaking.md",
@@ -205,10 +200,6 @@
     "Misc",
     "Myamya/Songs and poems.md",
     "Myamya/Date ideas.md",
-    "INF7370/Slides/6. Evaluation slides.pdf",
-    "INF7370/Notes/6. Evaluation.md",
-    "INF7370/Notes/5. kNN.md",
-    "INF7370/Notes/4. Bayesian classifier.md",
     "INF7370/Slides/5. kNN slides.pdf",
     "INF7370/Slides/4. Bayesian classifier slides.pdf",
     "INF7370/Slides/3. Ensemble methods slides.pdf",
