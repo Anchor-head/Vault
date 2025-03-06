@@ -23,14 +23,12 @@
             "id": "f9b0b03b1d03d2fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INF7370/Notes/7. Bayesian networks.md",
-                "mode": "source",
-                "source": false
+                "file": "INF7370/Slides/7. Bayesian networks slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7. Bayesian networks"
+              "icon": "lucide-file-text",
+              "title": "7. Bayesian networks slides"
             }
           }
         ],
@@ -178,9 +176,11 @@
   },
   "active": "f9b0b03b1d03d2fc",
   "lastOpenFiles": [
+    "INF7370/Notes/7. Bayesian networks.md",
+    "INF7370/Slides/7. Bayesian networks slides.pdf",
+    "INF7370/Slides/7. Bayesian networks slides.pdf.crdownload",
     "INF7370/Images/Pasted image 20250306145052.png",
     "INF7370/Notes/4. Bayesian classifier.md",
-    "INF7370/Notes/7. Bayesian networks.md",
     "INF7370/Notes/6. Evaluation.md",
     "INF7370/Images/Pasted image 20250305195841.png",
     "INF7370/Slides/6. Evaluation slides.pdf",
@@ -204,15 +204,12 @@
     "Myamya/Date ideas.md",
     "INF7370/Slides/5. kNN slides.pdf",
     "INF7370/Slides/4. Bayesian classifier slides.pdf",
-    "INF7370/Slides/3. Ensemble methods slides.pdf",
     "INF7370/Images/Pasted image 20250203184003.png",
     "INF7370/Images/Pasted image 20250203184449.png",
     "INF7370/Images/Pasted image 20250203171830.png",
     "INF7370/Images/Pasted image 20250130005758.png",
     "INF7370/Images/Pasted image 20250129223301.png",
     "INF7370/Images/Pasted image 20250203025627.png",
-    "INF7370/Images/Pasted image 20250203165419.png",
-    "INF7370/Slides/2. Arbres de décision.pdf",
     "INF7370/2. Ensemble methods.md",
     "INF7370/1. Decision trees.md",
     "Myamya/Gift ideas.md",
