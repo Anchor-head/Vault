@@ -7,3 +7,9 @@
 **Presentation:** baby loves when you teach her stuff
 
 **Plushy:** TOOTHLESS plushy!!!
+
+## Birthday
+- Dubai chocolate
+- Flowers
+- Bangles
+##### Cat café
