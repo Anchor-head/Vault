@@ -11,28 +11,17 @@
             "id": "2c8386d3f2a59ccd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "INF7370/Slides/6. Evaluation slides.pdf"
+                "file": "INF7370/Notes/7. Bayesian networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "6. Evaluation slides"
-            }
-          },
-          {
-            "id": "f9b0b03b1d03d2fc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INF7370/Slides/7. Bayesian networks slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "7. Bayesian networks slides"
+              "icon": "lucide-file",
+              "title": "7. Bayesian networks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,36 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9b0b03b1d03d2fc",
+  "active": "31548f298b5e79af",
   "lastOpenFiles": [
-    "INF7370/Notes/7. Bayesian networks.md",
-    "INF7370/Slides/7. Bayesian networks slides.pdf",
-    "INF7370/Slides/7. Bayesian networks slides.pdf.crdownload",
-    "INF7370/Images/Pasted image 20250306145052.png",
+    "Myamya/Gift ideas.md",
+    "INF7370/Slides/8.1. Covariate shift.pdf",
+    "INF7370/Slides/8.1. Covariate shift.pdf.crdownload",
+    "INF7370/Slides/10.2. CNN paper.pdf",
+    "INF7370/Slides/10.2. CNN paper.pdf.crdownload",
+    "INF7370/Slides/10.1. CNN slides.pdf",
+    "INF7370/Slides/10.1. CNN slides.pdf.crdownload",
+    "INF7370/Slides/10. CNN slides.pdf",
+    "INF7370/Slides/10. CNN slides.pdf.crdownload",
+    "INF7370/Slides/9. Deep learning slides.pdf",
+    "INF7370/Slides/9. Deep learning slides.pdf.crdownload",
     "INF7370/Notes/4. Bayesian classifier.md",
+    "INF7370/Notes/3. Ensemble methods.md",
     "INF7370/Notes/6. Evaluation.md",
-    "INF7370/Images/Pasted image 20250305195841.png",
-    "INF7370/Slides/6. Evaluation slides.pdf",
     "INF7370/Notes/5. kNN.md",
-    "INF7370/Slides/2. Decision trees slides.pdf",
+    "INF7370/Notes/7. Bayesian networks.md",
+    "CV/CV.md",
+    "INF7370/Images/Pasted image 20250306145052.png",
+    "INF7370/Images/Pasted image 20250305195841.png",
     "Herbalife/Notes Frank.md",
     "INF7370/TP1/Gradient Boosting.md",
-    "Herbalife",
     "INF7370/Notes/2. Decision trees.md",
     "Pasted image 20250302171729.png",
     "Pasted image 20250302165348.png",
     "Misc/Flaking.md",
-    "INF7370/Notes/3. Ensemble methods.md",
-    "INF7370/TP1",
     "Misc/Table talk.md",
-    "CV/CV.md",
-    "CV",
     "INF7370/Key concepts.md",
-    "Misc",
     "Myamya/Songs and poems.md",
     "Myamya/Date ideas.md",
-    "INF7370/Slides/5. kNN slides.pdf",
-    "INF7370/Slides/4. Bayesian classifier slides.pdf",
     "INF7370/Images/Pasted image 20250203184003.png",
     "INF7370/Images/Pasted image 20250203184449.png",
     "INF7370/Images/Pasted image 20250203171830.png",
@@ -212,7 +202,6 @@
     "INF7370/Images/Pasted image 20250203025627.png",
     "INF7370/2. Ensemble methods.md",
     "INF7370/1. Decision trees.md",
-    "Myamya/Gift ideas.md",
     "Untitled2.md",
     "Untitled.md",
     "Newest/Untitled2.md",
