@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c8386d3f2a59ccd",
+            "id": "afda2f63e7d48bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "INF7370/Notes/8. ANN.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,20 +22,19 @@
             }
           },
           {
-            "id": "dcf937fc7d3b9a34",
+            "id": "5d40bbf290c3e533",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INF7370/Notes/4. Bayesian classifier.md",
-                "mode": "preview",
-                "source": false
+                "file": "INF7370/Slides/8. ANN slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4. Bayesian classifier"
+              "icon": "lucide-file-text",
+              "title": "8. ANN slides"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8386d3f2a59ccd",
+  "active": "5d40bbf290c3e533",
   "lastOpenFiles": [
-    "INF7370/Notes/7. Bayesian networks.md",
     "INF7370/Notes/8. ANN.md",
+    "INF7370/Slides/8. ANN slides.pdf",
+    "INF7370/Notes/7. Bayesian networks.md",
     "INF7370/Slides/7. Bayesian networks slides.pdf",
     "INF7370/Notes/4. Bayesian classifier.md",
     "Myamya/Songs and poems.md",
@@ -193,7 +193,6 @@
     "INF7370/Slides/10.1. CNN slides.pdf.crdownload",
     "INF7370/Slides/10. CNN slides.pdf",
     "INF7370/Slides/10. CNN slides.pdf.crdownload",
-    "INF7370/Slides/9. Deep learning slides.pdf",
     "INF7370/Notes/3. Ensemble methods.md",
     "INF7370/Notes/6. Evaluation.md",
     "INF7370/Notes/5. kNN.md",
@@ -224,7 +223,6 @@
     "Obsidian.md",
     "Untitled.canvas",
     "Glossary.md",
-    "2025-01-30.md",
-    "^Entropy.md"
+    "2025-01-30.md"
   ]
 }
