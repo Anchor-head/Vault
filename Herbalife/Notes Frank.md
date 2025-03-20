@@ -10,7 +10,7 @@
 - 3 meals 2 snacks
 - How to develop the good habit (monitoring, guidance)
 - Get out of comfort zone (my assistance will help)
-- 
+
 - Meal plan
 - Monitoring
 - Workout plan
@@ -21,7 +21,6 @@
 		- Formula 1 - 66.65$
 		- PDM - 81.90$
 		- Multivit - 40.80$
-
 
 
 # GET TELEGRAM
