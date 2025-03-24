@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aabfe18665d38e6a",
+            "id": "7bdd3b2390e349be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INF7370/Notes/9. Deep learning.md",
-                "mode": "source",
-                "source": false
+                "file": "INF7370/Slides/9. Deep learning slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "9. Deep learning"
+              "icon": "lucide-file-text",
+              "title": "9. Deep learning slides"
             }
           },
           {
-            "id": "8f62f1f016d8c1b9",
+            "id": "a7f81f1aa50c7f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "INF7370/Notes/9. Deep learning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -177,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aabfe18665d38e6a",
+  "active": "7bdd3b2390e349be",
   "lastOpenFiles": [
-    "Myamya/Songs and poems.md",
-    "INF7370/Slides/9. Deep learning slides.pdf",
     "INF7370/Notes/9. Deep learning.md",
+    "INF7370/Slides/9. Deep learning slides.pdf",
+    "Myamya/Songs and poems.md",
     "Herbalife/Notes Frank.md",
     "INF7370/Notes/7. Bayesian networks.md",
     "INF7370/Notes/6. Evaluation.md",
