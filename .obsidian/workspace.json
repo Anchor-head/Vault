@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d89d2d5cef0673b7",
+        "id": "3a4888e2a0709c36",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdd3b2390e349be",
+            "id": "ee2c09c9a3a41366",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INF7370/Slides/10.1. CNN slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "10.1. CNN slides"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c287e802a2a9d633",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "accb52b6d5dc2ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INF7370/Notes/10. CNN.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10. CNN"
+              "title": "New tab"
             }
           }
         ]
@@ -112,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INF7370/Slides/10.1. CNN slides.pdf",
+                "file": "INF7370/TP1/Gradient Boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10.1. CNN slides"
+              "title": "Backlinks for Gradient Boosting"
             }
           },
           {
@@ -181,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bdd3b2390e349be",
+  "active": "31548f298b5e79af",
   "lastOpenFiles": [
+    "INF7370/Slides/10.1. CNN slides.pdf",
+    "INF7370/TP2/2_Evaluation.py",
+    "INF7370/TP2/1_Modele.py",
+    "INF7370/TP2",
     "INF7370/Slides/10. CNN slides.pdf",
     "INF7370/Notes/10. CNN.md",
-    "INF7370/Slides/10.1. CNN slides.pdf",
     "INF7370/Slides/9. Deep learning slides.pdf",
     "INF7370/Notes/9. Deep learning.md",
     "INF7370/Notes/8. ANN.md",
@@ -204,8 +185,6 @@
     "INF7370/Slides/7. Bayesian networks slides.pdf",
     "Myamya/Gift ideas.md",
     "INF7370/Slides/8.1. Covariate shift.pdf.crdownload",
-    "INF7370/Slides/10.2. CNN paper.pdf",
-    "INF7370/Slides/10.2. CNN paper.pdf.crdownload",
     "CV/CV.md",
     "INF7370/Images/Pasted image 20250306145052.png",
     "INF7370/Images/Pasted image 20250305195841.png",
