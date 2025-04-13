@@ -23,14 +23,12 @@
             "id": "cb7ce7873ecc4adc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INF7370/Notes/11. Autoencoder.md",
-                "mode": "source",
-                "source": false
+                "file": "INF7370/Slides/7. Bayesian networks slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "11. Autoencoder"
+              "icon": "lucide-file-text",
+              "title": "7. Bayesian networks slides"
             }
           }
         ],
@@ -176,17 +174,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb7ce7873ecc4adc",
+  "active": "31548f298b5e79af",
   "lastOpenFiles": [
-    "INF7370/Slides/11. Autoencoder slides.pdf",
     "INF7370/Slides/7. Bayesian networks slides.pdf",
+    "Untitled 1.md",
+    "Untitled.md",
+    "INF7370/Slides/13. RBF slides.pdf",
+    "Pasted image 20250413181052.png",
+    "Pasted image 20250413181045.png",
+    "Pasted image 20250413181001.png",
     "INF7370/Slides/4. Bayesian classifier slides.pdf",
+    "INF7370/Slides/12. SVM slides.pdf",
+    "INF7370/Slides/13. RBF slides.pdf.crdownload",
+    "INF7370/Notes/11. Autoencoder.md",
+    "INF7370/Slides/11. Autoencoder slides.pdf",
     "INF7370/Slides/6. Evaluation slides.pdf",
     "INF7370/Slides/5. kNN slides.pdf",
     "INF7370/Slides/3. Ensemble methods slides.pdf",
     "INF7370/Slides/2. Decision trees slides.pdf",
     "INF7370/Notes/2. Decision trees.md",
-    "INF7370/Notes/11. Autoencoder.md",
     "INF7370/Notes/4. Bayesian classifier.md",
     "INF7370/Notes/5. kNN.md",
     "INF7370/Notes/6. Evaluation.md",
@@ -197,10 +203,6 @@
     "INF7370/Notes/3. Ensemble methods.md",
     "INF7370/Key concepts.md",
     "Meaty vegan/Estrogen in meat.md",
-    "Meaty vegan",
-    "INF7370/Slides/10.1. CNN slides.pdf",
-    "INF7370/TP2/2_Evaluation.py",
-    "INF7370/TP2/1_Modele.py",
     "Myamya/Songs and poems.md",
     "Herbalife/Notes Frank.md",
     "INF7370/Images/Pasted image 20250318201900.png",
@@ -216,14 +218,9 @@
     "Myamya/Date ideas.md",
     "INF7370/Images/Pasted image 20250203184003.png",
     "INF7370/Images/Pasted image 20250203184449.png",
-    "INF7370/Images/Pasted image 20250203171830.png",
-    "INF7370/Images/Pasted image 20250130005758.png",
-    "INF7370/Images/Pasted image 20250129223301.png",
     "INF7370/2. Ensemble methods.md",
     "INF7370/1. Decision trees.md",
     "Untitled2.md",
-    "Untitled.md",
-    "Newest/Untitled2.md",
     "Untitled.canvas"
   ]
 }
