@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Mourning"
             }
+          },
+          {
+            "id": "d782bd24ff864b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herbalife/Notes Frank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Frank"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85d6cb0b430c6bf3",
+  "active": "d782bd24ff864b26",
   "lastOpenFiles": [
-    "INF7370/Slides/11. Autoencoder slides.pdf",
+    "Malaterre/Direction 05-12-2025.md",
+    "Malaterre/Direction 05-20-2025.md",
+    "Malaterre/Implementation notes.md",
+    "Meaty vegan/Estrogen in meat.md",
+    "Malaterre",
+    "Myamya/Songs and poems.md",
+    "Misc/Table talk.md",
     "Misc/Mourning.md",
+    "Misc/Flaking.md",
+    "INF7370/Notes/11. Autoencoder.md",
+    "INF7370/Slides/11. Autoencoder slides.pdf",
     "INF7370/Slides/3. Ensemble methods slides.pdf",
     "Untitled.md",
     "INF7370/Slides/7. Bayesian networks slides.pdf",
@@ -178,10 +202,8 @@
     "INF7370/Slides/4. Bayesian classifier slides.pdf",
     "INF7370/Slides/12. SVM slides.pdf",
     "INF7370/Slides/13. RBF slides.pdf.crdownload",
-    "INF7370/Notes/11. Autoencoder.md",
     "INF7370/Slides/6. Evaluation slides.pdf",
     "INF7370/Slides/5. kNN slides.pdf",
-    "INF7370/Slides/2. Decision trees slides.pdf",
     "INF7370/Notes/2. Decision trees.md",
     "INF7370/Notes/4. Bayesian classifier.md",
     "INF7370/Notes/5. kNN.md",
@@ -192,8 +214,6 @@
     "INF7370/Notes/10. CNN.md",
     "INF7370/Notes/3. Ensemble methods.md",
     "INF7370/Key concepts.md",
-    "Meaty vegan/Estrogen in meat.md",
-    "Myamya/Songs and poems.md",
     "Herbalife/Notes Frank.md",
     "INF7370/Images/Pasted image 20250318201900.png",
     "Myamya/Gift ideas.md",
@@ -203,13 +223,9 @@
     "INF7370/TP1/Gradient Boosting.md",
     "Pasted image 20250302171729.png",
     "Pasted image 20250302165348.png",
-    "Misc/Flaking.md",
-    "Misc/Table talk.md",
     "Myamya/Date ideas.md",
     "INF7370/Images/Pasted image 20250203184003.png",
     "INF7370/Images/Pasted image 20250203184449.png",
-    "INF7370/2. Ensemble methods.md",
-    "INF7370/1. Decision trees.md",
     "Untitled.canvas"
   ]
 }
